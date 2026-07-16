@@ -36,10 +36,14 @@ Artificial Intelligence, Machine Learning, and Modern Web Technologies.
 
 💡 Passionate about Software Engineering, Artificial Intelligence and Machine Learning.
 
-📖 Currently learning
+📖 Current Focus
 
+- Software Engineering
+- Data Structures & Algorithms
 - System Design
 - Cloud Computing
+- Data Analytics
+- Artificial Intelligence
 - Advanced Machine Learning
 - Backend Architecture
 
@@ -48,6 +52,7 @@ Artificial Intelligence, Machine Learning, and Modern Web Technologies.
 - Software Development
 - AI Applications
 - Full Stack Engineering
+- Data Analytics
 - Open Source
 - Scalable Systems
 
